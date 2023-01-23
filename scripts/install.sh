@@ -1,6 +1,5 @@
 #!/bin/sh
-# This script installs the package to the system.
-# chmod u+x YourScript.sh
+# chmod u+x install.sh
 
 PATH_BASE = "$(dirname "$0")/.."
 
